@@ -1,4 +1,4 @@
-﻿namespace ITD.Result.Errors;
+﻿namespace ITD.Results.Errors;
 public abstract record PredefinedError
 {
     public static readonly Error None = new(string.Empty, string.Empty, ErrorType.Failure);
