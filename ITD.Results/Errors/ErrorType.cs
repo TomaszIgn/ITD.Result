@@ -1,4 +1,4 @@
-﻿namespace ITD.Result.Errors;
+﻿namespace ITD.Results.Errors;
 public enum ErrorType
 {
     Failure = 0,

@@ -1,7 +1,7 @@
-﻿using ITD.Result.Errors;
+﻿using ITD.Results.Errors;
 using System.Diagnostics.CodeAnalysis;
 
-namespace ITD.Result;
+namespace ITD.Results;
 public class Result
 {
     public Result(bool isSuccess, Error error)

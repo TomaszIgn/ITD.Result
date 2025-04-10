@@ -1,4 +1,4 @@
-﻿namespace ITD.Result.Errors;
+﻿namespace ITD.Results.Errors;
 public record Error : PredefinedError
 {
     public Error(string code, string description, ErrorType type)
