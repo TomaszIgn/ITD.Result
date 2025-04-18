@@ -25,7 +25,6 @@ bld/
 
 # VS
 .vs/*
-ITD.Result.sln
 
 # .NET Core
 project.lock.json
